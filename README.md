@@ -42,6 +42,10 @@ The script also prints the coordinates of each landmark and draws circles at the
 
 Press `q` to quit the application.
 
+## Illustration
+
+<img width="477" alt="Screenshot Hand Detection" src="https://github.com/ishan-1010/Hand-Detection-Using-Mediapipe/assets/98383932/b10ce7dd-afc2-4960-a02f-83c1fac88de2">
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or want to enhance this project, feel free to open a pull request.
