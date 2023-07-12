@@ -13,7 +13,7 @@ This code demonstrates hand detection using the `cv2` and `mediapipe` libraries.
 1. Clone the repository:
 
    ```
-   git clone https://github.com/example/repository.git
+   git clone https://github.com/ishan-1010/Hand-Detection-Using-Mediapipe.git
    ```
 
 2. Install the required libraries using pip:
